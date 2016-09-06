@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".ember-cli" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern="web.config" type="XML" />
     </extensionMap>
   </component>
 </application>
