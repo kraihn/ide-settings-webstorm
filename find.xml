@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[metsoft-ui] - ...\src\app\shared\session\authentication.reducers.ts'" />
-    <option name="defaultScopeName" value="File '[metsoft-ui] - ...\src\app\shared\session\authentication.reducers.ts'" />
-    <option name="SEARCH_SCOPE" value="File '[metsoft-ui] - ...\src\app\shared\session\authentication.reducers.ts'" />
+    <option name="customScope" value="Directory '[metsoft-ui] - ...\src\app'" />
+    <option name="defaultScopeName" value="Directory '[metsoft-ui] - ...\src\app'" />
+    <option name="SEARCH_SCOPE" value="Directory '[metsoft-ui] - ...\src\app'" />
   </component>
 </application>
