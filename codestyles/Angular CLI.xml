@@ -1,16 +1,7 @@
 <code_scheme name="Angular CLI">
+  <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6,p,span" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="OBJECT_LITERAL_WRAP" value="0" />
-    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </TypeScriptCodeStyleSettings>
-  <codeStyleSettings language="TypeScript">
-    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
-    <option name="KEEP_LINE_BREAKS" value="false" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
-  </codeStyleSettings>
 </code_scheme>
