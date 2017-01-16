@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[metsoft-ui] - ...\src\app'" />
-    <option name="defaultScopeName" value="Directory '[metsoft-ui] - ...\src\app'" />
+    <option name="customScope" value="Project 'metsoft-ui'" />
+    <option name="defaultScopeName" value="Project 'metsoft-ui'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[metsoft-ui] - ...\src\app'" />
+    <option name="SEARCH_SCOPE" value="Project 'metsoft-ui'" />
   </component>
 </application>
