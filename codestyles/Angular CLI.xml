@@ -1,8 +1,0 @@
-<code_scheme name="Angular CLI">
-  <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6,p,span" />
-  <option name="HTML_ENFORCE_QUOTES" value="true" />
-  <TypeScriptCodeStyleSettings>
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-  </TypeScriptCodeStyleSettings>
-</code_scheme>
