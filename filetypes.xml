@@ -6,6 +6,7 @@
       <mapping pattern=".ember-cli" type="PLAIN_TEXT" />
       <mapping pattern=".swagger-codegen-ignore" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="2875254639" type="PLAIN_TEXT" />
       <mapping ext="4109569240" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
